@@ -10,4 +10,15 @@ font-family : 'Bebas Neue', cursive;}
     font-weight: 200;
     color: white;
 }
+.box-sizing{
+    height: 450px;
+}
+.img-shaping{
+height: 50px;
+width: 50px;
+}
+.side-image{
+    height: 30%;
+}
+
 @media(max-width:992;)
