@@ -20,5 +20,6 @@ width: 50px;
 .side-image{
     height: 30%;
 }
-
-@media(max-width:992;)
+.review-spacing{
+    padding-top:100px;
+}
